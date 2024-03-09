@@ -1,0 +1,10 @@
+/*estilo para clase imagen */
+.image{
+    height: 250px;
+    width: auto;
+}
+/* estilo para id albbum*/
+.album{
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
